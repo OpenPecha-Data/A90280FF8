@@ -1,0 +1,19 @@
+id: A90280FF8
+title: Prayer to Jetsün Tārā
+type: translation
+pechas:
+- IA1A7B969
+- I22DDB456
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:39:45.088758
+  last_modified_at: 2023-01-04 12:39:45.088783
+  collections:
+  - Jetsün Drakpa Gyaltsen Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IA1A7B969/3DB3: 5F70
+  I22DDB456/BE55: 5F70
